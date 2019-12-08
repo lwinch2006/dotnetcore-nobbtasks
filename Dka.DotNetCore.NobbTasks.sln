@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dka.DotNetCore.NobbTasks.TaskA", "Dka.DotNetCore.NobbTasks.TaskA\Dka.DotNetCore.NobbTasks.TaskA.csproj", "{A4F9AFF1-7AF8-4965-A51C-1D1928C8A82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dka.DotNetCore.NobbTasks.TaskB", "Dka.DotNetCore.NobbTasks.TaskB\Dka.DotNetCore.NobbTasks.TaskB.csproj", "{7A950964-DCA8-45EB-A483-E1EBDADD8647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dka.DotNetCore.NobbTasks.TaskC", "Dka.DotNetCore.NobbTasks.TaskC\Dka.DotNetCore.NobbTasks.TaskC.csproj", "{8D468A1D-7B32-49D8-AED4-D49BB4A38277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F9AFF1-7AF8-4965-A51C-1D1928C8A82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F9AFF1-7AF8-4965-A51C-1D1928C8A82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F9AFF1-7AF8-4965-A51C-1D1928C8A82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F9AFF1-7AF8-4965-A51C-1D1928C8A82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A950964-DCA8-45EB-A483-E1EBDADD8647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A950964-DCA8-45EB-A483-E1EBDADD8647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A950964-DCA8-45EB-A483-E1EBDADD8647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A950964-DCA8-45EB-A483-E1EBDADD8647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D468A1D-7B32-49D8-AED4-D49BB4A38277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D468A1D-7B32-49D8-AED4-D49BB4A38277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D468A1D-7B32-49D8-AED4-D49BB4A38277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D468A1D-7B32-49D8-AED4-D49BB4A38277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
